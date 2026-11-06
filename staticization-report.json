@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "project": "project-13931626",
+  "generated_at": "2026-09-16 18:01:47",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/topic/ai-photo-restore",
+    "/topic/concert-volunteers",
+    "/topic/elevator-first-floor",
+    "/topic/hidden-spot-viral",
+    "/topic/marathon-supply-station",
+    "/topic/roadshow-improv",
+    "/topic/skincare-ingredient-meme",
+    "/topic/subway-phone-rule",
+    "/topic/tea-collab-queue",
+    "/topic/variety-finale-frames",
+    "/topic/veggie-blindbox",
+    "/topic/youth-mode-test",
+    "/topics"
+  ],
+  "route_count": 15,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
